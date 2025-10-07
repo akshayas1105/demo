@@ -1,4 +1,4 @@
 # demo
 this is my first git repository
 <br>
-Author -Akshaya S
+Author -Akshaya S Salian
